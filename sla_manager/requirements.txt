@@ -1,0 +1,10 @@
+prometheus_api_client
+prometheus_client
+confluent_kafka
+pandas
+flask
+kafka-python
+mysql.connector
+#time
+#json
+
